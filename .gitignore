@@ -1,0 +1,19 @@
+# React / Vite
+expense-tracker-web/node_modules/
+expense-tracker-web/dist/
+expense-tracker-web/build/
+expense-tracker-web/.env
+expense-tracker-web/.env.local
+expense-tracker-web/*.log
+
+# Laravel
+/vendor/
+/node_modules/
+/.env
+/.env.*.local
+storage/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
